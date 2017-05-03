@@ -1,0 +1,20 @@
+Microprocs:
+  1. Program the ATTiny's to do things
+  2. Grab all of the microcontrollers I can
+    - list?
+  3. Port some simple program to all of them
+  
+ML:
+  Train some nontrivial image recognition thing with TF
+  Get a working neural style transfer
+  
+ML libraries:
+  Make work:
+    - TF
+    - Torch
+    - Caffe
+   
+Multi-threading
+  Do something cool with CUDA
+  --
+  
