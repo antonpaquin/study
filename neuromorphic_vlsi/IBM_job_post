@@ -1,0 +1,64 @@
+IBM put up an internship offer for their TrueNorth team at https://www.hirepurpose.com/jobs/research-summer-intern-73728br with the following requirements
+
+Split into sections and commented:
+
+  Neuromorphic Algorithms and Applications:
+    Neural Networks
+    Deep Learning
+    Convolutional Networks
+    Machine Learning
+    Pattern Recognition
+    Statistical Learning
+    Probabilistic Graphical Models
+    Mapping neural networks to custom hardware
+    Experience developing, testing, and deploying systems for image processing, speech, robotics, medical imaging, or other real-world applications
+    Information theoretical system models, high dimensional non-linear dynamical systems, complex adaptive systems
+  
+  Education / Training:
+    -- This section is entirely irrelevant
+  
+  Neuromorphic hardware design:
+    VLSI design including
+      logic design (synchronous and/or asynchronous)
+      physical design
+      integration
+      verification
+      validation
+    Printed Circuit Board (PCB) design/debug
+    Field Programmable Gate Array (FPGA) development/debug
+    Large-scale system design
+    Spiking sensors
+
+  Software/Firmware:
+    NeuralNet frameworks
+      TensorFlow
+      Caffe
+      MatConvNet
+      Torch
+      DIGITS
+    Parallel programming using tools such as 
+      Message Passing Interface (MPI), 
+      Compute Unified Device Architecture (CUDA), 
+      OpenMP, MATLAB Parallel Toolbox
+    Expert level programming skills in 
+      C++
+      Python
+      MATLAB
+    Real-time embedded software/firmware development
+    Linux kernel/device drivers
+    system level simulation and optimization 
+    Software maintenance and source control 
+      Subversion
+      Git
+      ClearCase
+    bug tracking
+      Jira
+      Bugzilla 
+    collaboration 
+      Confluence
+      MoinMoin
+
+
+In a few sections, they list a bunch of similar technologies and it's probably implied that you should pick one.
+
+This does seem to be a pretty good, comprehensive list for practical work in the field though. I'll need to build a pipeline of links
